@@ -12,11 +12,9 @@ To solve the N-Queen problem using backtracking, which places N queens on an N*N
 5. Print the board if a solution is found; otherwise, print "Solution does not exist".
 
 ## Program:
-```
-Program to implement N-Queen problem using backtracking.
-Developed by: LOKNAATH P
-Register Number: 212223240080
-```
+### Program to implement N-Queen problem using backtracking.
+### Developed by: THARUN V K
+### Register Number: 212223230231
 ```python
 global N
 N = int(input())
