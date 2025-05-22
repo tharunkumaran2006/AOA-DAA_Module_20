@@ -11,11 +11,10 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 4. At each step, either include the current element in the sum or exclude it, and move to the next element.
 5. Print "True, subset found" if a subset exists that matches the target; otherwise, print "False, subset not found".
 ## Program:
-```
-Program to implement Subset sum problem.
-Developed by: LOKNAATH P
-Register Number: 212223240080
-```
+### Program to implement Subset sum problem.
+### Developed by: THARUN V K
+### Register Number: 212223230231
+
 ```python
 def SubsetSum(a,i,sum,target,n):
     if i==n:
