@@ -12,11 +12,10 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 5. If a path is found, print the solution matrix; otherwise, print that no solution exists. 
 
 ## Program:
-```
-Program to implement Rat in a Maze.
-Developed by: LOKNAATH P
-Register Number: 212223240080  
-```
+### Program to implement Rat in a Maze.
+### Developed by: THARUN V K
+### Register Number: 212223230231 
+
 ```python
 N = 4
  
